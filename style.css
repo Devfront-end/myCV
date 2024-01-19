@@ -1,0 +1,78 @@
+/* Main Body Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Header Styles */
+  .header {
+    background-color: #4A90E2; /* Adjust the color to match the image */
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    margin-top: 10px;
+    font-size: 1.5em;
+  }
+  
+  /* Section Styles */
+  section {
+    background-color: #F0F0F0; /* Light grey background */
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 800px;
+  }
+  
+  /* For icons like HTML, CSS, JS, etc. */
+  .tools-icons {
+    text-align: center;
+  }
+  
+  .tools-icons img {
+    width: 50px; /* Adjust the size as needed */
+    margin: 5px;
+  }
+  
+  /* Competences and Professional Experience Sections */
+  .competences ul, .experience ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .competences ul li:before, .experience ul li:before {
+    content: '•';
+    color: #4A90E2; /* Adjust the color to match the image */
+    font-weight: bold;
+    margin-right: 5px;
+  }
+  
+  /* Contact Information */
+  .contact-info {
+    text-align: center;
+    font-size: 0.9em;
+  }
+  
+  /* Social Media Icons */
+  .social-media {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  
+  .social-media img {
+    width: 24px; /* Adjust the size as needed */
+    margin: 0 10px;
+  }
+  
+  /* Adjust further details as needed */
+  
